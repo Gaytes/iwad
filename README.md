@@ -35,7 +35,7 @@
 | [Strife Voices](voices.7z) | voices.wad | **1.0** | 27,319,149 | 17,076,728 | 082234d6a3f7086424856478b5aa9e95 |
 
 
-###Chex 
+### Chex
 | Name| Filename| Version| Size| Compressed Size| MD5 Checksum |
 |-----|--------:|--------|----:|---------------:|--------------|
 | [Chex Quest](chex.7z) | chex.wad | **1.0** | 12,361,532| 2,787,212 | 25485721882b050afa96a56e5758dd52 |
